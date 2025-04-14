@@ -1,1 +1,37 @@
-# Pp
+<!DOCTYPE html>
+<html lang="id">
+<meta charset='UTF-8'/>
+<meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Antique:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
+<link href="https://feeldreams.github.io/heihbd/style.css" rel="stylesheet" type="text/css" />
+<script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
+<script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script>
+  
+<head>
+<title>Happy Birthday</title>
+<link rel="icon" type="image/x-icon" href="https://malasid.github.io/favicon.png">
+</head>
+<body>
+  
+<!-- Ganti Audio di sini -->
+<audio src="background_music.mp3" id="linkmp3" class="sembunyi" autoplay loop></audio>
+
+<div id="bodyblur">
+  <!-- Ganti Wallpaper di sini -->
+  <img src="pngtree-romantic-cute-pink-white-yellow-color-stripe-background-picture-image_1336886.jpg" id="wallpaper"/>
+  <div id="beneranblur"></div>
+</div>
+
+<!-- ...konten lainnya tetap sama seperti yang kamu kirim... -->
+
+<!-- Script & Akhir -->
+<script src="https://malasid.github.io/html/hbd.js"></script>
+</body>
+</html>
